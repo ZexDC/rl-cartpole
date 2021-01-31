@@ -1,3 +1,5 @@
+# Reinforcement Learning - Cart-Pole problem
+
 This project includes a Proximity Policy Optimization algorithm implementation to control the cart pole in OpenAI Gym.
 PPO makes also use of the Actor-Critic algorithm implementation behind the scenes.
 
